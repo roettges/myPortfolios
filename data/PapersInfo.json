@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Do MultiModal Models Show Evidence of Semantic Color Discriminability?",
+        "authors": "Laura Roettges, Ryan Moreno",
+        "year": 2024,
+        "tags": ["Computer Vision", "Psychology of Color"],
+        "pdf": "/SemanticColorDiscriminability_Final_Report_submit.pdf",
+        "repo_url": "https://github.com/ryan-moreno/BMI_771_project",
+        "website": ""
+    },
+    {
+        "id": 2,
+        "title": "Optimizing Goalie Pulls in Hockey: Take Me Out, Coach!",
+        "authors": "Laura Roettges, Ryan Moreno",
+        "year": 2024,
+        "tags": ["Optimization"],
+        "pdf": "/524_Final_Report_lauraRoettges_ryanMoreno.pdf",
+        "repo_url": "https://github.com/ryan-moreno/CS524-project",
+        "website": ""
+    },
+    {
+        "id": 3,
+        "title": "ShapeShifters: Exploring the robustness of ChangeIt3D as proposed by Panos et al.",
+        "authors": "Laura Roettges, Abhinav Harish, Keshav Pachipala, Kevin Macauley",
+        "year": 2024,
+        "tags": ["Computer Vision"],
+        "pdf": "",
+        "repo_url": "https://github.com/Auc7us/shapeshifters?tab=readme-ov-file",
+        "website": "https://roettges.github.io/shapeshifter_CS766/"
+    }
+]
